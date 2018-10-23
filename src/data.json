@@ -1,0 +1,28 @@
+{
+    "data":[
+       {
+          "id":1,
+          "question": "What is an array?"
+       },
+       {
+          "id":2,
+          "question":"What is the fulllform of CSS?"
+       },
+       {
+          "id":3,
+          "question":"What is the Javascript?"
+       },
+       {
+          "id":4,
+          "question":"What is Framework?"
+       },
+       {
+          "id":5,
+          "question":"What is the fulllform of CSS?"
+       },
+       {
+          "id":6,
+          "question":"What is the fulllform of CSS?"
+       }
+    ]
+}
